@@ -1,0 +1,93 @@
+"nation","life_aspect","position"
+"Australia","Family",1
+"Australia","Occupation",2
+"Australia","Friends",3
+"Australia","Material well-being",4
+"Australia","Society",5
+"Belgium","Family",1
+"Belgium","Material well-being",2
+"Belgium","Occupation",3
+"Belgium","Health",4
+"Belgium","Friends",5
+"Canada","Family",1
+"Canada","Occupation",2
+"Canada","Material well-being",3
+"Canada","Friends",4
+"Canada","Society",5
+"France","Family",1
+"France","Occupation",2
+"France","Health",3
+"France","Material well-being",4
+"France","Friends",5
+"Germany","Family",1
+"Germany","Occupation",2
+"Germany","Health",2
+"Germany","Occupation",3
+"Germany","Health",3
+"Germany","Material well-being",4
+"Germany","General Positive",4
+"Germany","Friends",5
+"Greece","Family",1
+"Greece","Occupation",2
+"Greece","Health",3
+"Greece","Friends",4
+"Greece","Hobbies",5
+"Italy","Family",1
+"Italy","Occupation",1
+"Italy","Occupation",2
+"Italy","Material well-being",3
+"Italy","Health",4
+"Italy","Friends",5
+"Japan","Material well-being",1
+"Japan","Health",2
+"Japan","Occupation",3
+"Japan","Health",3
+"Japan","Hobbies",4
+"Japan","Freedom",5
+"Netherlands","Material well-being",1
+"Netherlands","Material well-being",2
+"Netherlands","Health",3
+"Netherlands","Friends",4
+"Netherlands","Occupation",5
+"New Zealand","Family",1
+"New Zealand","Occupation",2
+"New Zealand","Friends",3
+"New Zealand","Material well-being",4
+"New Zealand","Society",5
+"Singapore","Family",1
+"Singapore","Occupation",2
+"Singapore","Society",3
+"Singapore","Material well-being",4
+"Singapore","Friends",5
+"South Korea","Material well-being",1
+"South Korea","Health",2
+"South Korea","Family",3
+"South Korea","General Positive",4
+"South Korea","Society",5
+"South Korea","Freedom",5
+"Spain","Health",1
+"Spain","Material well-being",2
+"Spain","Occupation",3
+"Spain","Family",4
+"Spain","Society",5
+"Sweden","Family",1
+"Sweden","Occupation",2
+"Sweden","Friends",3
+"Sweden","Material well-being",4
+"Sweden","Health",4
+"Sweden","Friends",5
+"Taiwan","Society",1
+"Taiwan","Material well-being",2
+"Taiwan","Family",3
+"Taiwan","Freedom",4
+"Taiwan","Hobbies",5
+"U.S.","Family",1
+"U.S.","Friends",2
+"U.S.","Material well-being",3
+"U.S.","Occupation",4
+"U.S.","Faith",5
+"UK","Family",1
+"UK","Friends",2
+"UK","Hobbies",3
+"UK","Occupation",4
+"UK","Health",5

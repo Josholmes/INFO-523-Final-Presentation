@@ -1,0 +1,13 @@
+name: Presentation
+title: Presentation
+username: ufaqfw-joshua-holmes
+account: ufaqfw-joshua-holmes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12438743
+bundleId: 8972373
+url: https://ufaqfw-joshua-holmes.shinyapps.io/Presentation/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: deploy.R
